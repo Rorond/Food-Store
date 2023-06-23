@@ -1,0 +1,14 @@
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\bin\Debug\Foods_Store_App.exe.config
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\bin\Debug\Foods_Store_App.exe
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\bin\Debug\Foods_Store_App.pdb
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\bin\Debug\Foods_Store_App.xml
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\bin\Debug\FontAwesome.Sharp.dll
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.FrmFoodStore.resources
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.Resources.resources
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.vbproj.GenerateResource.cache
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.vbproj.CopyComplete
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.exe
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.xml
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.pdb
+D:\PROGRAMMING\VB NET\Foods_Store_App\Foods_Store_App\obj\Debug\Foods_Store_App.vbproj.AssemblyReference.cache
